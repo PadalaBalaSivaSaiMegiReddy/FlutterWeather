@@ -36,7 +36,7 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 6. Run the App
 
 ## Contact
-- [Ariz Armeidi](https://github.com/PadalaBalaSivaSaiMegiReddy) | [Twitter](https://twitter.com/megi_reddy21) | [Instagram](https://www.instagram.com/b_s_s_megi_reddy_padala/)
+- [Bala Siva Sai Megi Reddy Padala](https://github.com/PadalaBalaSivaSaiMegiReddy) | [Twitter](https://twitter.com/megi_reddy21) | [Instagram](https://www.instagram.com/b_s_s_megi_reddy_padala/)
 - If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.me/megireddy21)
 
 ## License
